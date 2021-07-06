@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         println("Stash Changes")
         println("This function will go on Experiment Branch")
         println("Change 2 on Experiment Branch")
+        println("Change to master branch")
     }
 }
