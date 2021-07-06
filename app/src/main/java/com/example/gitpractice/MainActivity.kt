@@ -8,4 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+    fun doStash(){
+        println("Stash Changes")
+        println("This function will go on Experiment Branch")
+    }
 }
