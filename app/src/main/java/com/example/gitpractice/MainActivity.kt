@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
         println("Change to master branch")
         println("Create a pull request")
     }
+
+    fun createPullRequest(){
+        println("Created Pull Request")
+    }
 }
